@@ -1,6 +1,8 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
 <script type='text/javascript'>    
-  var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0bM1c07Nrl2VneFysatvlZgL3ET5CKm5MFgM9uslUrhVOMPx0NkE1kk5gNnSpBp8NjDB06NG6wISN/pubhtml';
+  var publicSpreadsheetUrl = '2PACX-1vQ0bM1c07Nrl2VneFysatvlZgL3ET5CKm5MFgM9uslUrhVOMPx0NkE1kk5gNnSpBp8NjDB06NG6wISN';
+  
+  // var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0bM1c07Nrl2VneFysatvlZgL3ET5CKm5MFgM9uslUrhVOMPx0NkE1kk5gNnSpBp8NjDB06NG6wISN/pubhtml';
 
   function init() {
     Tabletop.init( { key: publicSpreadsheetUrl,
